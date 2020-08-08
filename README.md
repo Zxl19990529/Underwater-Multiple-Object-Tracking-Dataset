@@ -7,6 +7,12 @@ This is a dataset for multiple object tracking in underwater environment. The on
 
 The dataset can be downloaded by [Baidu Netdisk](https://pan.baidu.com/s/1JRjW8TjbT-TW60kHY18yWg) code:uk7x  
 
+## Underwater MOT dataset(Part 1)
+
+This part is made for training the detector. The dataset is labeled in the same format as [VOC2007](http://host.robots.ox.ac.uk/pascal/VOC/index.html)
+
+## Underwater MOT dataset(Part 2)
+
 There are four zip files in total. Download them and unzip you can get four folders. The "Raw" folder is the original dataset without underwate enhancement. "CLAHE","Fusion" and "UGAN-GP" are the enhanced ones by [CLAHE](https://link.springer.com/article/10.1023/B:VLSI.0000028532.53893.82), [Fusion](https://ieeexplore.ieee.org/abstract/document/6247661/) and [UGAN-GP](https://ieeexplore.ieee.org/abstract/document/8460552).
 
 ![](imgs/screenshot_unzip.png)  
@@ -51,3 +57,4 @@ Folder "img1" stores the sequence of the video. File "det.txt" records the detec
 2,1,1490,377,77,59,1,1,1
 3,1,1488,380,86,59,1,1,1
 ```
+Note: <x><y><z> in "det.txt" are reserved for 3D location. <cls> in "gt.txt" is "1" now, because only holothurians are labeled in this dataset.
