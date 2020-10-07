@@ -61,15 +61,15 @@ Note: <x><y><z> in "det.txt" are reserved for 3D location. <cls> in "gt.txt" is 
 
 The video name is order by time in format of ```year-month-day_hour.minute.second.mp4```, and the video id in the paper is recorded in the following table:
 
-|          Video name         | Video id in paper |
-|:---------------------------:|:-----------------:|
-|  2019-05-11_06.31.53.mp4(1) |       Video1      |
-|  2019-05-11_06.36.47.mp4(2) |       Video2      |
-|  2019-05-15_17.52.58.mp4(4) |       Video4      |
-|  2019-05-15_17.45.28.mp4(3) |       Video3      |
-|  2019-07-03_09.51.35.mp4(5) |       Video5      |
-|  2019-07-03_09.52.44.mp4(6) |       Video6      |
-|  2019-07-03_10.00.01.mp4(7) |       Video7      |
-|  2019-07-03_10.01.01.mp4(8) |       Video8      |
-|  2019-07-03_10.05.28.mp4(9) |       Video9      |
-| 2019-07-03_10.06.43.mp4(10) |      Video10      |
+|          Video name      | Video id in paper |
+|:------------------------:|:-----------------:|
+|  2019-05-11_06.31.53.mp4 |       Video1      |
+|  2019-05-11_06.36.47.mp4 |       Video2      |
+|  2019-05-15_17.45.28.mp4 |       Video3      |
+|  2019-05-15_17.52.58.mp4 |       Video4      |
+|  2019-07-03_09.51.35.mp4 |       Video5      |
+|  2019-07-03_09.52.44.mp4 |       Video6      |
+|  2019-07-03_10.00.01.mp4 |       Video7      |
+|  2019-07-03_10.01.01.mp4 |       Video8      |
+|  2019-07-03_10.05.28.mp4 |       Video9      |
+|  2019-07-03_10.06.43.mp4 |      Video10      |
