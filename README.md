@@ -1,5 +1,5 @@
 # Underwater Multiple Object Tracking Dataset
-
+Related paper: [In Situ Holothurian Noncontact Counting System: A General Framework for Holothurian Counting](https://ieeexplore.ieee.org/document/9261353)
 This is a dataset for multiple object tracking in underwater environment. The only target in the dataset is holothurian. So far as we know, the need for holothurian is growing fast in China in recent years,, which encourages the development of holothurian aquaculture. The farmers need to know the abundance and distribution of the holothurian, so that they can evaluate the growth status and decide the right time to harvest. However, traditional method requires farmers to employ a diver to do the counting. However, that cost of hiring divers is high and there are not enough divers. Therefore, it is necessary to develop an in-situ non-contact holothurian counting system. And that is what we make this dataset for. The whole dataset is composed of two parts, part 1 is made for training the detector and part 2 is made for evaluating the performance of tracking and counting. We make the part 2 in the same format as [MOT16](https://motchallenge.net/data/MOT16/)
 
 
